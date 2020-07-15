@@ -1,0 +1,16 @@
+au\edu\rmit\bdp\clustering\model\DataPoint.class
+au\edu\rmit\bdp\clustering\mapreduce\DataPointWrapper2.class
+au\edu\rmit\bdp\distance\SimilarityMeasurer.class
+au\edu\rmit\bdp\distance\CosineDistance.class
+au\edu\rmit\bdp\distance\HaversineDistance.class
+au\edu\rmit\bdp\distance\DistanceMeasurer.class
+au\edu\rmit\bdp\distance\EuclidianDistance.class
+au\edu\rmit\bdp\clustering\model\Centroid.class
+au\edu\rmit\bdp\distance\ZeroDistance.class
+au\edu\rmit\bdp\clustering\mapreduce\KMeansMapper.class
+au\edu\rmit\bdp\distance\ManhattanDistance.class
+au\edu\rmit\bdp\clustering\mapreduce\KMeansClusteringJob.class
+au\edu\rmit\bdp\distance\JaccardDistance.class
+au\edu\rmit\bdp\clustering\mapreduce\DataPointWrapper.class
+au\edu\rmit\bdp\clustering\mapreduce\KMeansReducer$Counter.class
+au\edu\rmit\bdp\clustering\mapreduce\KMeansReducer.class
